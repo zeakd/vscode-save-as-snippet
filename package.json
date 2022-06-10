@@ -2,7 +2,7 @@
   "name": "save-as-snippet",
 	"displayName": "Save As Snippet",
 	"description": "Simply create your own snippet",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "artydeveloperduck",
 	"repository": {
 			"type": "git",
@@ -49,7 +49,7 @@
 		"test": "node ./out/test/runTest.js"
 	},
 	"devDependencies": {
-		"@types/vscode": "^1.68.0",
+		"@types/vscode": "^1.28.0",
 		"@types/glob": "^7.2.0",
 		"@types/mocha": "^9.1.1",
 		"@types/node": "16.x",
